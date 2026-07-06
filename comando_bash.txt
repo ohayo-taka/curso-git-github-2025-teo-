@@ -2,4 +2,8 @@ ls = ir para home - Listando arquivos e pasta da onde está
 
 cd Desktop/ = ir area de trabalho - Muda vc de diretorio, da onde vc esta.
 
-pwd = mostra o caminho para onde vc tá/ mostra o diretorio
+pwd = mostra o caminho para onde vc tá/ mostra o diretório
+
+cat = exibe conteúdo do arquivo
+
+rm = remove arquivo ou diretório
