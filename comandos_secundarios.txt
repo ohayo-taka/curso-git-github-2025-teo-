@@ -3,3 +3,4 @@ esse arquivi ten coenndados secundariso de git
 
 comandos mais genéricos 
 - comandos estranhos
+dsadasdsds
