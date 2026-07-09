@@ -12,3 +12,13 @@ alemd siso mvanis trbakhar com gitflow ao final dod cursop e vs code
 
 confriau nossoa.
 
+
+
+\--------
+
+
+
+Pessoas participantes 
+
+* Taka
+
