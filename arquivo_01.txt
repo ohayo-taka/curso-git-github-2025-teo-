@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 noss que dodeira es uou! 
+=======
+Legal que doideira esse curso
+>>>>>>> teo
