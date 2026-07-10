@@ -10,7 +10,9 @@ alemd siso mvanis trbakhar com gitflow ao final dod cursop e vs code
 
 
 
-confriau nossoa.
+confriau nossoa. Segue o link:
+
+[Curso Git 2025] (https://www.youtube.com.br)
 
 
 
