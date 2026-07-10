@@ -14,7 +14,10 @@ confriau nossoa. Segue o link:
 
 [Curso Git 2025] (https://www.youtube.com.br)
 
+Alem do nosso youtbe, fuqye pro dentro de tudo que vai rolar em 2025
 
+[alguma coisa aqu]
+ (outra qaquidssd)`
 
 \--------
 
